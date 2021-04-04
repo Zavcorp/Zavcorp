@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zavcorp
+- 👋 Hi, I’m Adrian Zavaleta
 - 👀 I’m interested in Web Development, I love Electronic Music (Techno Lover) and Travel..
 - 🌱 I’m currently learning React, NodeJS
 
