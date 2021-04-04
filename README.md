@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adrian Zavaleta
 - 🇲🇽 I'm from Poza Rica,Veracruz Mèxico
-- 🎵 I`m Techno Lover
+- 🎵 I'm Techno Lover
 - 👀 I’m interested in Web Development..
 - 🌱 I’m currently learning React, NodeJS
 
