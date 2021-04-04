@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Adrian Zavaleta
-- 👀 I’m interested in Web Development, I love Electronic Music (Techno Lover) and Travel..
+- 🇲🇽 I'm from Poza Rica,Veracruz Mèxico
+- 🎵 I`m Techno Lover
+- 👀 I’m interested in Web Development..
 - 🌱 I’m currently learning React, NodeJS
 
 <!---
