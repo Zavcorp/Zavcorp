@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Adrian Zavaleta
 - 🇲🇽 I'm from Poza Rica,Veracruz Mèxico
 - 🎵 I'm Techno Lover and Traveller ✈️
-- 👀 I’m Web Developer..
+- 👀 I’m Front End Developer..
 - 🌱 I’m currently learning Angular, NET Core, React, Azure, AWS
 
 <!---
