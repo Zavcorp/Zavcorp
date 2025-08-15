@@ -2,7 +2,7 @@
 - 🇲🇽 I'm from Poza Rica, Veracruz Mèxico
 - 🎵 I'm Techno Lover and Traveller 🗺️✈️
 - 👀 I’m Front End Developer..
-- 🌱 I’m currently learning Angular, NET Core, Azure, AWS, Cloud Computing, DevOps.
+- 🌱 I’m currently learning Angular, React, NET Core, Azure, AWS, Cloud Computing, DevOps.
 
 <!---
 Zavcorp/Zavcorp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
