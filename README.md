@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Adrian Zavaleta
 - 🇲🇽 I'm from Poza Rica, Veracruz, living at Mèxico City.
-- 🎵 I'm Techno Lover and Traveller 🗺️✈️
+- 🎵 Love DnB and Traveller 🗺️✈️
 - 👀 I’m Front End Developer..
-- 🌱 I’m currently learning Angular, React, NET Core, Azure, AWS, Cloud Computing, DevOps, Java.
+- 🌱 I’m currently learning Angular, React, NET Core, Azure, AWS, Cloud Computing, DevOps, IA, Java.
 
 <!---
 Zavcorp/Zavcorp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
